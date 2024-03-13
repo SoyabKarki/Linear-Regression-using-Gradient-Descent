@@ -1,4 +1,4 @@
-## Gradient Descent for Linear Regression
+# Gradient Descent for Linear Regression
 
 This Python script demonstrates how to implement gradient descent for linear regression. The model is a simple linear regression (y = mx + c), and the optimization algorithm is gradient descent.
 
